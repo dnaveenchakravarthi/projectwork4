@@ -1,0 +1,222 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body{
+  background-image: url("https://i.vimeocdn.com/video/638284371-7cfe6b6e757c042a6e92b70c2222d1a4338b1a31279cf3377a787c42089bf4f3-d_640x360.jpg");
+	
+	
+    
+  background-size: cover;
+}
+
+	
+  
+	
+  
+.container {
+	width: 1170px;
+	margin: 0px auto;
+}
+.width-100 {
+	width: 100%;
+	float: left;
+}
+
+
+.width-50 {
+	float: left;
+	width: 50%;
+}
+
+
+.width-25 {
+	width: 25%;
+	float: left;
+}
+.width-66 {
+	width: 66%;
+	float: left;
+}
+
+
+
+
+.width-33 {
+	width: 33%;
+	float: left;
+}
+.header {
+	padding-top: 20px;
+	padding-bottom: 60px;
+  bac
+	
+
+}
+.header-menu {
+	list-style: none;
+	margin-top: 10px;
+}
+.header-logo> a{
+    letter-spacing: 1.5rem;
+text-decoration: none;
+	color:black;
+	background-size: 20%;
+    
+}
+.header-menu li {
+	float: left;
+	font-size: 15px;
+}
+.header-menu a {
+	font-size: 17px;
+	text-decoration: none;
+	color: black;
+	font-weight: 500;
+	padding: 10px;
+}
+.button-job-post {
+	background-color: #e34216;
+	color: white;
+	border: none;
+	border-radius: 2px;
+	font-size: 14px;
+	float: left;
+	padding: 10px;
+	text-decoration: none;
+}
+.button-resume {
+	background-color: #17acda;
+	color: white;
+	border: none;
+	border-radius: 2px;
+	font-size: 14px;
+	float: left;
+	margin-left: 10px;
+	padding: 10px;
+	text-decoration: none;
+}
+.search-sect {
+	margin-top: 40px;
+	width: 25%;
+	float: left;
+	position: relative;
+}
+.search-textbox {
+	height: 40px;
+	width: 100%;
+	padding-left: 10px;
+	border-top: none;
+	border-bottom: none;
+	border-color: #d9d9d9;
+	border-right: none;
+	border-width: 1px;
+}
+.search-button {
+	width: 100%;
+	height: 40px;
+	background-color: #e34216;
+	border: none;
+	color: white;
+}
+.search-sect .icons {
+	position: absolute;
+	top: 12px;
+	right: 10px;
+}
+.skill-section {
+	background-color: #00000008;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.skill-list {
+	background-color: white;
+	width: 23%;
+	float: left;
+	margin-left: 15px;
+	padding-top: 10px;
+	border-radius: 5px;
+	padding-left: 8px;
+	padding-bottom: 10px;
+}
+.skill-list img {
+	width: 70px;
+	height: 70px;
+	border-radius: 100px;
+}
+.skill-list h4 {
+	font-size: 16px;
+	color: #313538;
+	font-weight: bold;
+	padding-left: 8px;
+	padding-top: 8px
+
+
+
+  
+	
+.main{
+    margin: 20px;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+}
+
+.h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.job-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.job {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 10px;
+}
+
+.job-title {
+  margin-top: 0;
+}
+
+.company-name {
+  margin-top: 5px;
+  font-style: italic;
+}
+
+.job-location {
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.apply-now {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 3px;
+  }
+  
+  .apply-now:hover {
+    background-color: #555;
+  }
+  
+  /* Styles for the footer */
+  .footer {
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+    
+
+  
+  
